@@ -20,7 +20,7 @@ for example, and set on the GUI 127.0.0.1 and 10000 for the video sink IP and si
 The Info tab will show the running status of the tuner.
 
 Finally, this is really just a proof of concept whether it could be done.
-If you'd like to hewlp develop it further, please get in touch
+If you'd like to help develop it further, please get in touch
 
 terrysteeper@hotmail.com
 
@@ -29,7 +29,7 @@ What would be nice:
 2. Develop a nice looking signal strength meter
 3. Add an IQ plotter graphic
 4. Do some checking for sane input values!
-5. Atodetect longmynd installation (should be easy)
+5. Autodetect longmynd installation (should be easy)
 
 I might start doing the above as winter comes and I have more time, but for now "it works enough" to use :-)
 
