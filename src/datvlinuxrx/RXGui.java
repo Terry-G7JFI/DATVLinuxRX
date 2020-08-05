@@ -296,7 +296,7 @@ public class RXGui extends javax.swing.JFrame {
         }
         
         //commandline += "-i 192.168.1.77 10000 -I 127.0.0.1 10001 ";
-        commandline += "-i " + jTextFieldIP.getText() + " " + jTextFieldPort.getText() + " -I 127.0.0.1 10001 ";
+        commandline += " -i " + jTextFieldIP.getText() + " " + jTextFieldPort.getText() + " -I 127.0.0.1 10001 ";
         commandline += jTextFieldFreq.getText() + "000 ";
         commandline += jTextFieldSR.getText();
         //commandline += " &";
