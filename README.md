@@ -4,6 +4,11 @@ Java project, for Linux, to control the Minitioune hardware from Linux. Requires
 Longmynd can be downloaded from
 https://github.com/BritishAmateurTelevisionClub/longmynd
 
+Note - you do not need to make the two fio pipes for running this GUI
+mkfifo longmynd_main_status
+mkfifo longmynd_main_ts
+You DO NOT NEED TO MAKE THOSE, unless you are going to run longmynd from the command line
+
 DATVLinuxRX project is developed with Netbeans 12
 
 run with
